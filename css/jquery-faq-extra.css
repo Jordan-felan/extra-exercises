@@ -1,0 +1,10 @@
+.invisible {
+    visibility: hidden;
+
+}
+.highlightOne {
+    background-color: hotpink;
+}
+ #yellowstone-facts, #channel-island-facts, #redwood-facts {
+    display: none;
+}
